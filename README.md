@@ -38,7 +38,7 @@ ChartJS
 
 ### Clone the repository:
 
-git clone https://github.com/Udaya1011/CODING_ASSIGNMENT-7.git
+git clone https://github.com/Yuvasri2021/CODING_ASSIGNMENT-7.git
 
 
 ### Navigate into the project directory:
